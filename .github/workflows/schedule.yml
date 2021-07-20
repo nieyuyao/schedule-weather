@@ -1,13 +1,13 @@
 name: schedule
 
 on:
-	push:
-		branches: [ master ]
+  push:
+    branches: [master]
   schedule:
     - cron: "0 * * * *"
 
 jobs:
-	build:
+  build:
     runs-on: ubuntu-latest
     steps:
       - name: update weather
