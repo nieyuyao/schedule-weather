@@ -12,5 +12,3 @@ jobs:
     steps:
     - name: update weather
       run: bash weather.sh
-
-	
