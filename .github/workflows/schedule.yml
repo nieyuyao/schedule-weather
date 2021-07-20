@@ -2,7 +2,7 @@ name: schedule
 
 on:
 	push:
-		branches: [ master ],
+		branches: [ master ]
   schedule:
     - cron: "0 * * * *"
 
