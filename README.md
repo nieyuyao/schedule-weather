@@ -1,4 +1,4 @@
-Beijing: ⛅️  +86°F 🌔 ←4mph 75%
-Tianjin: ⛅️  +84°F 🌔 ←12mph 75%
-Shijiazhuang: 🌦 +75°F 🌔 ←0mph 100%
-Tangshan: ⛅️  +84°F 🌔 ←12mph 75%
+Beijing: ⛅️  +29°C 🌔 ↑11km/h 79%
+Tianjin: ⛅️  +28°C 🌔 ←19km/h 79%
+Shijiazhuang: 🌦 +24°C 🌔 ←0km/h 100%
+Tangshan: ⛅️  +28°C 🌔 ←19km/h 79%
