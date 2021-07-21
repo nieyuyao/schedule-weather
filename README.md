@@ -1,4 +1,4 @@
-Beijing: ☀️ +75°F 🌔 ↙0mph 94%
+Beijing: ☀️ +79°F 🌔 ↙4mph 89%
 Tianjin: 🌩  +75°F 🌔 ←7mph 94%
-Shijiazhuang: 🌦 +77°F 🌔 ←4mph 79%
+Shijiazhuang: 🌦 +73°F 🌔 ↓4mph 94%
 Tangshan: 🌩  +75°F 🌔 ←7mph 94%
