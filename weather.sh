@@ -3,7 +3,7 @@
 git config --local user.email "bot@github.com"
 git config --local user.name "bot"
 git pull --rebase
-curl -s "wttr.in/{Beijing,Tianjin,Shijiazhuang,Tangshan}?format=4" > ./README.md
+curl -s "wttr.in/{Beijing,Tianjin,Shijiazhuang,Tangshan}?m&format=4" > ./README.md
 cat ./README.md
 make
 ./main
