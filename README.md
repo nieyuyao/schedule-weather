@@ -1,25 +1,4 @@
 Today weather:  
-  
-Sorry, we are running out of queries to the weather service at the moment.  
-Here is the weather report for the default city (just to show you what it looks like).  
-We will get new queries as soon as possible.  
-You can follow https://twitter.com/igor_chubin for the updates.  
-======================================================================================  
-  
-Sorry, we are running out of queries to the weather service at the moment.  
-Here is the weather report for the default city (just to show you what it looks like).  
-We will get new queries as soon as possible.  
-You can follow https://twitter.com/igor_chubin for the updates.  
-======================================================================================  
-  
-Sorry, we are running out of queries to the weather service at the moment.  
-Here is the weather report for the default city (just to show you what it looks like).  
-We will get new queries as soon as possible.  
-You can follow https://twitter.com/igor_chubin for the updates.  
-======================================================================================  
-  
-Sorry, we are running out of queries to the weather service at the moment.  
-Here is the weather report for the default city (just to show you what it looks like).  
-We will get new queries as soon as possible.  
-You can follow https://twitter.com/igor_chubin for the updates.  
-======================================================================================  
+Beijing: ☀️   🌡️+23°C 🌬️↓7km/h  
+Unknown location; please try ~39.1235635,117.1980785Shijiazhuang: ☀️   🌡️+28°C 🌬️↑18km/h  
+Unknown location; please try ~39.6296509,118.173933  
