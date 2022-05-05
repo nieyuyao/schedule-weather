@@ -1,25 +1,2 @@
 Today weather:  
-  
-Sorry, we are running out of queries to the weather service at the moment.  
-Here is the weather report for the default city (just to show you what it looks like).  
-We will get new queries as soon as possible.  
-You can follow https://twitter.com/igor_chubin for the updates.  
-======================================================================================  
-  
-Sorry, we are running out of queries to the weather service at the moment.  
-Here is the weather report for the default city (just to show you what it looks like).  
-We will get new queries as soon as possible.  
-You can follow https://twitter.com/igor_chubin for the updates.  
-======================================================================================  
-  
-Sorry, we are running out of queries to the weather service at the moment.  
-Here is the weather report for the default city (just to show you what it looks like).  
-We will get new queries as soon as possible.  
-You can follow https://twitter.com/igor_chubin for the updates.  
-======================================================================================  
-  
-Sorry, we are running out of queries to the weather service at the moment.  
-Here is the weather report for the default city (just to show you what it looks like).  
-We will get new queries as soon as possible.  
-You can follow https://twitter.com/igor_chubin for the updates.  
-======================================================================================  
+Unknown location; please try ~39.9059631,116.391248Unknown location; please try ~39.1235635,117.1980785Unknown location; please try ~38.04,114.47Unknown location; please try ~39.6296509,118.173933  
