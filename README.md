@@ -1,5 +1,8 @@
 Today weather:  
-Beijing: ☀️   🌡️+28°C 🌬️↑7km/h  
-Tianjin: ☀️   🌡️+30°C 🌬️↗11km/h  
-Shijiazhuang: ☀️   🌡️+35°C 🌬️↗14km/h  
-Tangshan: ☀️   🌡️+32°C 🌬️↗21km/h  
+<html>  
+<head><title>500 Internal Server Error</title></head>  
+<body bgcolor="white">  
+<center><h1>500 Internal Server Error</h1></center>  
+<hr><center>nginx/1.10.3</center>  
+</body>  
+</html>  
