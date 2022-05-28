@@ -1,22 +1,5 @@
 Today weather:  
-<html>  
-<head><title>502 Bad Gateway</title></head>  
-<body bgcolor="white">  
-<center><h1>502 Bad Gateway</h1></center>  
-<hr><center>nginx/1.10.3</center>  
-</body>  
-</html>  
-<html>  
-<head><title>502 Bad Gateway</title></head>  
-<body bgcolor="white">  
-<center><h1>502 Bad Gateway</h1></center>  
-<hr><center>nginx/1.10.3</center>  
-</body>  
-</html>  
-<html>  
-<head><title>502 Bad Gateway</title></head>  
-<body bgcolor="white">  
-<center><h1>502 Bad Gateway</h1></center>  
-<hr><center>nginx/1.10.3</center>  
-</body>  
-</html>  
+Beijing: ☀️   🌡️+31°C 🌬️↗22km/h  
+Tianjin: ☀️   🌡️+27°C 🌬️↑19km/h  
+Shijiazhuang: ☀️   🌡️+28°C 🌬️↑15km/h  
+Tangshan: ☀️   🌡️+27°C 🌬️↑23km/h  
