@@ -1,5 +1,5 @@
 Today weather:  
-Beijing: ☀️   🌡️+29°C 🌬️↖7km/h  
+Beijing: ☀️   🌡️+23°C 🌬️←7km/h  
 Tianjin: ☀️   🌡️+29°C 🌬️↗7km/h  
-Shijiazhuang: ☀️   🌡️+36°C 🌬️↖12km/h  
+Shijiazhuang: ☀️   🌡️+30°C 🌬️↖10km/h  
 Tangshan: ☀️   🌡️+34°C 🌬️↑19km/h  
