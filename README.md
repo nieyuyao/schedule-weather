@@ -1,5 +1,25 @@
 Today weather:  
-Beijing: ☀️   🌡️+2°C 🌬️↘4km/h  
-Tianjin: ☀️   🌡️-5°C 🌬️→8km/h  
-Shijiazhuang: ☀️   🌡️+3°C 🌬️↘4km/h  
-Tangshan: ☀️   🌡️-4°C 🌬️→12km/h  
+  
+Sorry, we are running out of queries to the weather service at the moment.  
+Here is the weather report for the default city (just to show you what it looks like).  
+We will get new queries as soon as possible.  
+You can follow https://twitter.com/igor_chubin for the updates.  
+======================================================================================  
+  
+Sorry, we are running out of queries to the weather service at the moment.  
+Here is the weather report for the default city (just to show you what it looks like).  
+We will get new queries as soon as possible.  
+You can follow https://twitter.com/igor_chubin for the updates.  
+======================================================================================  
+  
+Sorry, we are running out of queries to the weather service at the moment.  
+Here is the weather report for the default city (just to show you what it looks like).  
+We will get new queries as soon as possible.  
+You can follow https://twitter.com/igor_chubin for the updates.  
+======================================================================================  
+  
+Sorry, we are running out of queries to the weather service at the moment.  
+Here is the weather report for the default city (just to show you what it looks like).  
+We will get new queries as soon as possible.  
+You can follow https://twitter.com/igor_chubin for the updates.  
+======================================================================================  
