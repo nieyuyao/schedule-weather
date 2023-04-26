@@ -1,3 +1,5 @@
 Today weather:  
-Beijing: ☀️   🌡️+1°C 🌬️↓7km/h  
-Unknown location; please try ~39.1235635,117.1980785Unknown location; please try ~38.04,114.47Unknown location; please try ~39.6296509,118.173933  
+Beijing: ☀️   🌡️+10°C 🌬️↑4km/h  
+Tianjin: ☀️   🌡️+13°C 🌬️↑12km/h  
+Shijiazhuang: ☀️   🌡️+12°C 🌬️↖8km/h  
+Tangshan: ☀️   🌡️+12°C 🌬️↗7km/h  
