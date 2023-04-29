@@ -1,4 +1,5 @@
 Today weather:  
 Beijing: ☀️   🌡️+4°C 🌬️↓7km/h  
-Unknown location; please try ~39.1235635,117.1980785Shijiazhuang: ☀️   🌡️+9°C 🌬️→4km/h  
+Tianjin: 🌧   🌡️+13°C 🌬️→21km/h  
+Shijiazhuang: ☀️   🌡️+16°C 🌬️→19km/h  
 Tangshan: 🌦   🌡️+10°C 🌬️↓23km/h  
