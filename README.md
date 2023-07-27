@@ -1,3 +1,5 @@
 Today weather:  
-Unknown location; please try ~39.9059631,116.391248Unknown location; please try ~39.1235635,117.1980785Shijiazhuang: 🌫  🌡️+26°C 🌬️↗4km/h  
-Unknown location; please try ~39.6296509,118.173933  
+Beijing: ⛅️  🌡️+26°C 🌬️↙4km/h  
+Tianjin: 🌫  🌡️+28°C 🌬️↑11km/h  
+Shijiazhuang: ☀️   🌡️+31°C 🌬️↓4km/h  
+Tangshan: 🌦   🌡️+26°C 🌬️↖11km/h  
